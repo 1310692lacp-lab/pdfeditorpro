@@ -1,0 +1,6 @@
+{
+  "name": "PDF Text Editor",
+  "description": "A responsive client-side application to extract, edit, and re-export text from PDF files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
